@@ -6,3 +6,6 @@ def check(s1,s2):
 s1=input()
 s2=input()
 check(s1,s2)
+
+#ate
+#eat
